@@ -1,5 +1,6 @@
 
 public class NioTest {
 	private String test = "NioTest";
-	private String test2 = "NioTest3";
+	private String test4 = "NioTest4";
 }
+
