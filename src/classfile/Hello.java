@@ -16,6 +16,7 @@ private static List<Object> insList = new ArrayList<Object>();
 public static void main(String[] args) throws Exception {
 
 //    permLeak();
+	System.out.println("测试分支");
 }
 
 private static void permLeak() throws Exception {
