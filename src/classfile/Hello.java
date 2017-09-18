@@ -15,7 +15,7 @@ private static List<Object> insList = new ArrayList<Object>();
 
 public static void main(String[] args) throws Exception {
 
-    permLeak();
+//    permLeak();
 }
 
 private static void permLeak() throws Exception {
